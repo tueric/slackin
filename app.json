@@ -1,8 +1,8 @@
 {
   "name": "Slackin",
   "description": "Let people invite themselves to your Slack",
-  "logo": "https://i.imgur.com/odDO1Fx.png",
-  "repository": "https://github.com/rauchg/slackin",
+  "logo": "./boardroom-icon.png",
+  "repository": "https://github.com/tueric/slackin",
   "keywords": ["node", "slack"],
   "env": {
     "SLACK_SUBDOMAIN": {
